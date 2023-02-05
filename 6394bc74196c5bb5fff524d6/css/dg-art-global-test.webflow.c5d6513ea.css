@@ -13,7 +13,7 @@
    Start of custom Webflow CSS
    ========================================================================== */
 .w-webflow-badge {
-display: none !important;
+display: none important;
 }
 .w-checkbox {
   display: block;
