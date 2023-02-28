@@ -12,6 +12,9 @@
 /* ==========================================================================
    Start of custom Webflow CSS
    ========================================================================== */
+.w-webflow-badge {
+display: none important;
+}
 .w-checkbox {
   display: block;
   margin-bottom: 5px;
